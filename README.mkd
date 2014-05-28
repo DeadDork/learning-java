@@ -1,0 +1,4 @@
+Learning Java
+=============
+
+I like to learn through trial and error. Lots of error herein!
